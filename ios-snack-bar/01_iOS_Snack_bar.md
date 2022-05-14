@@ -1,5 +1,9 @@
 # [iOS Snack bar \#1](https://ios-snack-bar.connpass.com/event/246443/)
+##　スライド
+- [プロダクトグロースと技術のベースアップを両立させるRettyのアプリ開発スタイル / Achieve Product Growth and Tech Update](https://speakerdeck.com/imaizume/achieve-product-growth-and-tech-update)
+- [機能横断型チームにおける技術改善](https://speakerdeck.com/takeshiakutsu/ji-neng-heng-duan-xing-timuniokeruji-shu-gai-shan)
 
+## メモ
 - iOSDCでもあったSPMを使った構成の話。
     - [大規模なマルチモジュール開発をSwiftPackageに移行して運用してみた](https://tech.timee.co.jp/entry/2021/08/24/160205)
     - [pointfreeco/isowords](https://github.com/pointfreeco/isowords)
