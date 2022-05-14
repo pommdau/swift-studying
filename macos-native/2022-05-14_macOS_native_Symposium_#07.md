@@ -1,6 +1,9 @@
 ## [macOS native Symposium \#07](https://macos-native.connpass.com/event/243867/)
 
-## けんいちさん
+## スライド
+- [Big Surからの四角いアイコン / Rounded Rectangle Icons since Big Sur](https://speakerdeck.com/1024jp/rounded-rectangle-icons-since-big-sur)
+
+## けーにちさん
 ### 参考
 - https://kenichi27.com/
 - https://panic.com/jp/transmit/
