@@ -1,8 +1,4 @@
 ## [macOS native Symposium \#07](https://macos-native.connpass.com/event/243867/)
-
-## スライド
-- [Big Surからの四角いアイコン / Rounded Rectangle Icons since Big Sur](https://speakerdeck.com/1024jp/rounded-rectangle-icons-since-big-sur)
-
 ## けーにちさん
 ### 参考
 - https://kenichi27.com/
@@ -41,6 +37,8 @@
     - 著作権込だったら10万に上乗せして高めに売る。
 
 ## 1024jpさん
+### スライド
+- [Big Surからの四角いアイコン / Rounded Rectangle Icons since Big Sur](https://speakerdeck.com/1024jp/rounded-rectangle-icons-since-big-sur)
 
 ### メモ
 
@@ -89,6 +87,11 @@
 ![](https://i.imgur.com/vUbseDU.jpg)
 
 ## sonsonさん(Yuichi Yoshida)
-
-- [sonsongithub/HomeConMenu](https://github.com/sonsongithub/HomeConMenu)
+### メモ
+- 作ったもの
+	- [sonsongithub/HomeConMenu](https://github.com/sonsongithub/HomeConMenu)
+- スライド
+	- [Mac Catalyst Hacking ~macOSでHomeKitアプリを開発するために](https://www.docswell.com/s/sonson/ZPXD45-2022-05-15-132729#p1)
+- サンプルコード
+	- [sonsongithub/MacCatalystWithAppKit](https://github.com/sonsongithub/MacCatalystWithAppKit)
 - HomeKit.frameworkはカタリスト専用…
