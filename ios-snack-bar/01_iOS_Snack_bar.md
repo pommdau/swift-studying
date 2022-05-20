@@ -4,7 +4,7 @@
 - [機能横断型チームにおける技術改善](https://speakerdeck.com/takeshiakutsu/ji-neng-heng-duan-xing-timuniokeruji-shu-gai-shan)
 
 ## メモ
-- Dangerというのがあるらしい。
+- Dangerというのがある。導入事例を割と見る。
    - [Danger\-Swift 導入のススメ / Path to import Danger\-Swift](https://speakerdeck.com/lovee/path-to-import-danger-swift)
 - iOSDCでもあったSPMを使った構成の話。
     - [大規模なマルチモジュール開発をSwiftPackageに移行して運用してみた](https://tech.timee.co.jp/entry/2021/08/24/160205)
