@@ -79,6 +79,7 @@
 
 - ペンを短く太くしている
 - カランダッシュのペンが元ネタ
+	- https://twitter.com/1024jp/status/1525381536995893248?s=20&t=G5Mod31Jbjuyl4Y6FwI6AA
 
 ![](https://i.imgur.com/NUDmZFS.jpg)
 
