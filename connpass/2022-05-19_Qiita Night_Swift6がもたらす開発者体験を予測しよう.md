@@ -1,4 +1,4 @@
-## [2022-05-20_Qiita Night_Swift6がもたらす開発者体験を予測しよう！](https://increments.connpass.com/event/246181/)
+## [Qiita Night_Swift6がもたらす開発者体験を予測しよう！](https://increments.connpass.com/event/246181/)
 
 ### [偏見と妄想で語るスクリプト言語としての Swift / Swift as a Scripting Language](https://speakerdeck.com/lovee/swift-as-a-scripting-language)
 - Swiftをスクリプト言語のように使っているという話。
