@@ -1,4 +1,9 @@
 # [Compose custom layouts with SwiftUI](https://developer.apple.com/videos/play/wwdc2022/10056/?time=873)
+## 所感
+- GridはAutoLayoutで辛かった部分の解消にもなってて良い.
+- Custom Layoutは割と裏で泥臭いことは必要、呼び出す側的には簡単で良さげ.
+- ViewThatsFit: HStackで幅が足りないときにVStackにする、みたいなことができる.
+
 ## Twitterの声
 
 <blockquote class="twitter-tweet" data-lang="ja" data-dnt="true" data-theme="dark"><p lang="ja" dir="ltr">Swift UIのCustom Layout、なかなか強力なものになっていて面白い。AnyLayoutすごいぞ <a href="https://twitter.com/hashtag/WWDC22?src=hash&amp;ref_src=twsrc%5Etfw">#WWDC22</a></p>&mdash; Date (@d_date) <a href="https://twitter.com/d_date/status/1534576455450886150?ref_src=twsrc%5Etfw">2022年6月8日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
