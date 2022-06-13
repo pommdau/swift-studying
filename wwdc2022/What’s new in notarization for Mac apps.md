@@ -4,6 +4,7 @@
 
 - [WWDC2021での話](https://github.com/pommdau/swift-studying/blob/main/wwdc2021/Faster%20and%20simpler%20notarization%20for%20Mac%20apps.md)
 - [ホームAppleDeveloper Apple、Xcode 13以前のGUIやaltoolによるMacアプリの公証を2023年秋までに終了し、今後はXcode 14以上のGUIやnotarytoolへ移行。](https://applech2.com/archives/20220611-new-in-notarization-for-mac-apps.html)
+- [Notarizing macOS software before distribution](https://developer.apple.com/documentation/security/notarizing_macos_software_before_distribution)
 
 ## まとめ
 
