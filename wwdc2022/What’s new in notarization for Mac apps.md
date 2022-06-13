@@ -7,3 +7,6 @@
 
 ## まとめ
 
+>レガシィな公証方法を終了
+>Appleは現在、Macの公証サービスをXcode (GUI)とaltoolコマンド、昨年追加したnotarytoolコマンドで提供していますが、今後はXcode 14のGUIおよびnotarytoolを推奨し、デッドラインに設定した2023年秋にはXcode 13以前のXcodeからの公証サービスへのアップロードとaltoolを利用した公証を全て停止。
+
