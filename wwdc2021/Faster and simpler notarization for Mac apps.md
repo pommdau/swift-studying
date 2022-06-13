@@ -2,9 +2,8 @@
 
 ## 関連
 - https://twitter.com/tobi462/status/1529610841372639232
-    -　わかりやすいまとめ
+    - わかりやすいまとめ
 - [Apple、App Store外で公開するMacアプリのマルウェアチェックを行う公証サービスをより速くシンプルに行える「notarytool」コマンドを提供。](https://applech2.com/archives/20210611-apple-provide-notarytool-command.html)
-altool (deprecated) -> notarytoolに移行しよう
 
 ## まとめ
 
